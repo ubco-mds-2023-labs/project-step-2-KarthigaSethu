@@ -1,0 +1,10 @@
+{
+    "data_type": "CSV",
+    "entity_collection": "employees",
+    "base_field": "id",
+    "computable_fields": [
+        "salary",
+        "bonus"
+    ],
+    "path": "C:\\Users\\karth\\OneDrive\\Documents\\Assignment\\Project\\ProjectFinal\\Data533-Step3-ContinuousIntergration\\main\\Test\\test_config\\config.json"
+}
