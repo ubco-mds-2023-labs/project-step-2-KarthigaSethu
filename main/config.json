@@ -1,0 +1,9 @@
+{
+    "data_type": "JSON",
+    "entity_collection": "students",
+    "base_field": "name",
+    "computable_fields": [
+        "science"
+    ],
+    "path": "C:\\Users\\karth\\OneDrive\\Documents\\Assignment\\Project\\Data\\SampleData.json"
+}

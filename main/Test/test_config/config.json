@@ -1,0 +1,1 @@
+{"path": "example.csv", "data_type": "CSV", "entity_collection": "employees", "base_field": "id", "computable_fields": ["salary", "bonus"]}
